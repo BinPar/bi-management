@@ -1,0 +1,11 @@
+{
+  "Autor":"BinPar Team S.L.",
+  "public": {
+    "title": "Bi Management"
+  },
+  "private": {
+    "filesBucketName": "fs",
+    "connectionString": "mongodb://localhost:3001/meteor",
+    "dbPoolSize": 4
+  }
+}
